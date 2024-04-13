@@ -1,2 +1,0 @@
-username =  madhan
-password = 1233
